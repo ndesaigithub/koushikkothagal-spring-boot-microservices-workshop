@@ -7,7 +7,7 @@ This workshop includes:
   Basic Q/A on general doubts.
   Discovery Server (Eureka).
   Creating Eureka Clients.
-  Clinet Side Load Balancing.
+  Client Side Load Balancing.
  
 Complete Course:
   https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas
